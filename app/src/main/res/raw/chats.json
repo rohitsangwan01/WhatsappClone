@@ -1,0 +1,98 @@
+[
+  {
+    "id": "85829185-66f6-4023-964f-b776121b08c4",
+    "participantsId": ["ccf50b44-a610-42db-951f-582a712d858e", "57890d54-a176-435c-9579-6c27e77268b3"],
+    "messages": [
+      {
+        "content": "Do animals talk to each other?",
+        "createdAt": "2019-07-07T13:32:24-05",
+        "ownerId": "758c4d03-f89b-44d4-82d0-a185817a384c"
+      },
+      {
+        "content": "Of course they talk to each other.",
+        "createdAt": "2019-07-07T13:32:24-05",
+        "ownerId": "ccf50b44-a610-42db-951f-582a712d858e"
+      },
+      {
+        "content": "What do they talk about?",
+        "createdAt": "2019-07-07T13:32:24-05",
+        "ownerId": "758c4d03-f89b-44d4-82d0-a185817a384c"
+      },
+      {
+        "content": "They talk about other animals.",
+        "createdAt": "2019-07-07T13:32:24-05",
+        "ownerId": "ccf50b44-a610-42db-951f-582a712d858e"
+      },
+      {
+        "content": "What else do they talk about?",
+        "createdAt": "2019-07-07T13:32:24-05",
+        "ownerId": "758c4d03-f89b-44d4-82d0-a185817a384c"
+      },
+      {
+        "content": "They talk about food and the weather.",
+        "createdAt": "2019-07-07T13:32:24-05",
+        "ownerId": "ccf50b44-a610-42db-951f-582a712d858e"
+      },
+      {
+        "content": "Do they talk about us?",
+        "createdAt": "2019-07-07T13:32:24-05",
+        "ownerId": "758c4d03-f89b-44d4-82d0-a185817a384c"
+      },
+      {
+        "content": "Of course they talk about us.",
+        "createdAt": "2019-07-07T13:32:24-05",
+        "ownerId": "ccf50b44-a610-42db-951f-582a712d858e"
+      },
+      {
+        "content": "What do they say about us?",
+        "createdAt": "2019-07-07T13:32:24-05",
+        "ownerId": "758c4d03-f89b-44d4-82d0-a185817a384c"
+      },
+      {
+        "content": "They say that we are funny-looking.",
+        "createdAt": "2019-07-07T13:32:24-05",
+        "ownerId": "ccf50b44-a610-42db-951f-582a712d858e"
+      },
+      {
+        "content": "Ha! We're not funny-looking; animals are funny-looking.They talk about food and the weather.",
+        "createdAt": "2019-07-07T13:32:24-05",
+        "ownerId": "758c4d03-f89b-44d4-82d0-a185817a384c"
+      },
+      {
+        "content": "We're funny-looking because we wear clothes.",
+        "createdAt": "2019-07-07T13:32:24-05",
+        "ownerId": "ccf50b44-a610-42db-951f-582a712d858e"
+      }
+    ]
+  },
+  {
+    "id": "865d9232-2b65-45d1-9c35-89a6120a5ea6",
+    "participantsId": ["ccf50b44-a610-42db-951f-582a712d858e", "jcf50b44-a611-42db-951f-582a712d85ge"],
+    "messages": []
+  },
+  {
+    "id": "381b5f43-cb3a-4ed6-9ece-3e0a3c076cd0",
+    "participantsId": ["ccf50b44-a610-42db-951f-582a712d858e", "00ad57f3-ce6b-4c21-a7bd-3081649db4a4"],
+    "messages": []
+  },
+  {
+    "id": "05be3efc-32db-4bc3-944a-3c8825224a2a",
+    "participantsId": ["ccf50b44-a610-42db-951f-582a712d858e", "fdd38ae3-2dc4-48ca-83ce-64f4436d44b6"],
+    "messages": []
+  },
+  {
+    "id": "85879185-66f6-4023-964f-b476121b78c4",
+    "participantsId": ["ccf50b44-a610-42db-951f-582a712d858e", "1d22cc93-7b99-41d0-9ebc-13ab2afc67b6"],
+    "messages": []
+  },
+  {
+    "id": "45829185-66f6-4023-962f-b776121b08c4",
+    "participantsId": ["ccf50b44-a610-42db-951f-582a712d858e", "bda1a6e0-b7fb-49cd-9904-69432f2579a2"],
+    "messages": []
+  },
+  {
+    "id": "85829285-66f6-4023-964f-b776111b08c4",
+    "participantsId": ["ccf50b44-a610-42db-951f-582a712d858e", "05be3efc-32db-4bc3-944a-3c882522ea2a"],
+    "messages": []
+  }
+]
